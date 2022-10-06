@@ -27,4 +27,27 @@
 * Routing 
 	* Finding the optimal routes for a fleet of vehicles to traverse a network 
 	* Defined by a directed graph.
-	
+
+
+
+
+## Routing Problem 
+Input: 
+* Given a set of locations 
+
+
+Find an optimal routes for one/multiple vehicles.
+There is one vehicle -> Traveling Salesperson Problem.
+
+Optimal route: least total distance. 
+
+Optimal solution is to assign just one vehicle/person to visist all locations, and find the shortest route for that vehicle. 
+
+A better way to define optimal routes is to minimize the length of the longest  single route among all vehicles. 
+
+Vehicle Routing Problem:
+* Generalize the Travelling Sales Problem by adding some constraints on the vehicles.
+	* **Capacity constraints**: the vehicles need to pick up items at each location  they visit, but have a maximum carrying capacity.
+	* **Time windows**: each location must be visited within a specific time window.
+
+
