@@ -1,0 +1,3 @@
+Suppose a company manufactures dfiferent electronic components for computers. Component A requires 2 hours of fabrication and 1 hour of assembly; component B requires 3 hours of fabrication and 1 hour of assembly; and component C requires 2 hours of fabrication and 2 hours of assembly. 
+The company has up 1000 labor hours for fabrication and 800 labor hours of  assembly times each week. 
+If the profit on each component A,B, and C is $7, $8, $9 respectively, how many of each component to maximize the profits
