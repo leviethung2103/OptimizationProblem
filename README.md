@@ -1,6 +1,6 @@
 # OptimizationProblem
 
-## Knapsack Proble
+## Knapsack Problem
 Desc: Pack a subset of items (products) into 1 container/car. 
 
 Objective: Maximize the values of all items without exceeding the capacity of container/car
