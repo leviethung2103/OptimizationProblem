@@ -19,3 +19,6 @@ Desc: Fixed the knapsacks, allocate the subset of items that maximizes the total
 
 
 
+## Simplex  Method 
+Problem: https://www.youtube.com/watch?v=vVzjXpwW2xI 
+Solve the problem by using the constraints programming
